@@ -13,3 +13,8 @@ What things you need to install the software and how to install them:
 
 - Docker
 - Docker Compose
+
+### Installing
+
+Just install docker and docker-compose.
+I personally recommend you use docker-desktop for mac, windows and mainstream linux distros.

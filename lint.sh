@@ -1,1 +1,0 @@
-docker-compose run --rm app sh -c "/py/bin/flake8"
